@@ -15,4 +15,4 @@ Use with caution because - as with all color matching - there are tiny details l
 
 ## License
 
-This project is licensed under Public Domain - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under Public Domain.
